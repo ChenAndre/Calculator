@@ -1,10 +1,8 @@
 
 
-def deposit():
-    while True:
-        first_num = int(input("Enter your first number:"))
+first_num = int(input("Enter your first number:"))
       
-        tits = "your first number is: "
+tits = "your first number is: "
 
 
 
