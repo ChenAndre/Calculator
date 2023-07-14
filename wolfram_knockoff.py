@@ -1,7 +1,3 @@
-
-
-
-
 first_num = int(input("Enter your first number:"))
       
 str1 = "your first number is: "
