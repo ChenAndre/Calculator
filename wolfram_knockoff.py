@@ -1,5 +1,6 @@
 #commented code is old code lol
 
+print("github is fucking stupid")
 while True:
     first_num = input("Enter your first number:") 
 
